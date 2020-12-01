@@ -1,0 +1,14 @@
+{
+  "shops": [
+    {
+      "name": "Test",
+      "description": "lala",
+      "image": "https://www.loreal-finance.com/site/RA2014/img/desktop/data/body-shop-pic3.jpg"
+   },
+   {
+      "name": "TestTo",
+      "description": "lalatwo",
+      "image": "https://www.loreal-finance.com/site/RA2014/img/desktop/data/body-shop-pic3.jpg"
+   }
+  ]
+}
